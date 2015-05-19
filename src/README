@@ -1,0 +1,32 @@
+###############################
+####      python-mock      ####
+###############################
+
+# sudo apt-get install python-mock
+
+###############################
+####      pytest-spec      ####
+###############################
+
+# pip install pytest-spec
+
+###############################
+####    distribute_setup   ####
+###############################
+
+download from [http://python-distribute.org/distribute_setup.py]
+go to download folder
+
+# sudo python distribute_setup.py
+
+###############################
+####       Hamcrest        ####
+###############################
+
+download from [https://pypi.python.org/packages/source/P/PyHamcrest/PyHamcrest-1.8.0.tar.gz#md5=2a999f6909060cb6b81b894b57be7a91]
+uncompress
+go to folder
+
+# sudo python setup.py install
+
+
