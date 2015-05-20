@@ -15,7 +15,7 @@ class Ladron(Thread):
     def intentar_robo(self):
         if not self.objetivo.policias:
             self.objetivo.llega_ladron(self)
-            print 'robando banco'
+            print 'robando banco 2'
             time.sleep(0.2)
             print 'banco robado'
         
